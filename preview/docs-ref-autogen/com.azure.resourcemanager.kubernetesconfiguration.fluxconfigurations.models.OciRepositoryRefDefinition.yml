@@ -34,9 +34,9 @@ methods:
   fullName: "com.azure.resourcemanager.kubernetesconfiguration.fluxconfigurations.models.OciRepositoryRefDefinition.digest()"
   name: "digest()"
   nameWithType: "OciRepositoryRefDefinition.digest()"
-  summary: "Get the digest property: The image digest to pull from OCI repository, the value should be in the format ‘sha256:’."
+  summary: "Get the digest property: The image digest to pull from OCI repository, the value should be in the format \\\\u2018sha256:\\\\u2019."
   syntax: "public String digest()"
-  desc: "Get the digest property: The image digest to pull from OCI repository, the value should be in the format ‘sha256:’. This takes precedence over semver."
+  desc: "Get the digest property: The image digest to pull from OCI repository, the value should be in the format \\\\u2018sha256:\\\\u2019. This takes precedence over semver."
   returns:
     description: "the digest value."
     type: "<a href=\"https://docs.oracle.com/javase/8/docs/api/java/lang/String.html\">String</a>"
@@ -102,13 +102,13 @@ methods:
   fullName: "com.azure.resourcemanager.kubernetesconfiguration.fluxconfigurations.models.OciRepositoryRefDefinition.withDigest(String digest)"
   name: "withDigest(String digest)"
   nameWithType: "OciRepositoryRefDefinition.withDigest(String digest)"
-  summary: "Set the digest property: The image digest to pull from OCI repository, the value should be in the format ‘sha256:’."
+  summary: "Set the digest property: The image digest to pull from OCI repository, the value should be in the format \\\\u2018sha256:\\\\u2019."
   parameters:
   - description: "the digest value to set."
     name: "digest"
     type: "<a href=\"https://docs.oracle.com/javase/8/docs/api/java/lang/String.html\">String</a>"
   syntax: "public OciRepositoryRefDefinition withDigest(String digest)"
-  desc: "Set the digest property: The image digest to pull from OCI repository, the value should be in the format ‘sha256:’. This takes precedence over semver."
+  desc: "Set the digest property: The image digest to pull from OCI repository, the value should be in the format \\\\u2018sha256:\\\\u2019. This takes precedence over semver."
   returns:
     description: "the OciRepositoryRefDefinition object itself."
     type: "<xref href=\"com.azure.resourcemanager.kubernetesconfiguration.fluxconfigurations.models.OciRepositoryRefDefinition?alt=com.azure.resourcemanager.kubernetesconfiguration.fluxconfigurations.models.OciRepositoryRefDefinition&text=OciRepositoryRefDefinition\" data-throw-if-not-resolved=\"False\" />"

@@ -55,7 +55,7 @@ methods:
   nameWithType: "PassFailServerMetric.getAction()"
   summary: "Get the action property: Action taken after the threshold is met."
   syntax: "public PassFailAction getAction()"
-  desc: "Get the action property: Action taken after the threshold is met. Default is ‘continue’."
+  desc: "Get the action property: Action taken after the threshold is met. Default is \\\\u2018continue\\\\u2019."
   returns:
     description: "the action value."
     type: "<xref href=\"com.azure.developer.loadtesting.models.PassFailAction?alt=com.azure.developer.loadtesting.models.PassFailAction&text=PassFailAction\" data-throw-if-not-resolved=\"False\" />"
@@ -85,7 +85,7 @@ methods:
   nameWithType: "PassFailServerMetric.getCondition()"
   summary: "Get the condition property: The comparison operator."
   syntax: "public String getCondition()"
-  desc: "Get the condition property: The comparison operator. Supported types ‘>’, ‘<’."
+  desc: "Get the condition property: The comparison operator. Supported types \\\\u2018>\\\\u2019, \\\\u2018<\\\\u2019."
   returns:
     description: "the condition value."
     type: "<a href=\"https://docs.oracle.com/javase/8/docs/api/java/lang/String.html\">String</a>"
@@ -149,7 +149,7 @@ methods:
     name: "action"
     type: "<xref href=\"com.azure.developer.loadtesting.models.PassFailAction?alt=com.azure.developer.loadtesting.models.PassFailAction&text=PassFailAction\" data-throw-if-not-resolved=\"False\" />"
   syntax: "public PassFailServerMetric setAction(PassFailAction action)"
-  desc: "Set the action property: Action taken after the threshold is met. Default is ‘continue’."
+  desc: "Set the action property: Action taken after the threshold is met. Default is \\\\u2018continue\\\\u2019."
   returns:
     description: "the PassFailServerMetric object itself."
     type: "<xref href=\"com.azure.developer.loadtesting.models.PassFailServerMetric?alt=com.azure.developer.loadtesting.models.PassFailServerMetric&text=PassFailServerMetric\" data-throw-if-not-resolved=\"False\" />"
@@ -177,7 +177,7 @@ methods:
     name: "condition"
     type: "<a href=\"https://docs.oracle.com/javase/8/docs/api/java/lang/String.html\">String</a>"
   syntax: "public PassFailServerMetric setCondition(String condition)"
-  desc: "Set the condition property: The comparison operator. Supported types ‘>’, ‘<’.\n\nRequired when create the resource."
+  desc: "Set the condition property: The comparison operator. Supported types \\\\u2018>\\\\u2019, \\\\u2018<\\\\u2019.\n\nRequired when create the resource."
   returns:
     description: "the PassFailServerMetric object itself."
     type: "<xref href=\"com.azure.developer.loadtesting.models.PassFailServerMetric?alt=com.azure.developer.loadtesting.models.PassFailServerMetric&text=PassFailServerMetric\" data-throw-if-not-resolved=\"False\" />"

@@ -55,7 +55,7 @@ methods:
   nameWithType: "PassFailMetric.getAction()"
   summary: "Get the action property: Action taken after the threshold is met."
   syntax: "public PassFailAction getAction()"
-  desc: "Get the action property: Action taken after the threshold is met. Default is ‘continue’."
+  desc: "Get the action property: Action taken after the threshold is met. Default is \\\\u2018continue\\\\u2019."
   returns:
     description: "the action value."
     type: "<xref href=\"com.azure.developer.loadtesting.models.PassFailAction?alt=com.azure.developer.loadtesting.models.PassFailAction&text=PassFailAction\" data-throw-if-not-resolved=\"False\" />"
@@ -75,7 +75,7 @@ methods:
   nameWithType: "PassFailMetric.getAggregate()"
   summary: "Get the aggregate property: The aggregation function to be applied on the client metric."
   syntax: "public PassFailAggregationFunction getAggregate()"
-  desc: "Get the aggregate property: The aggregation function to be applied on the client metric. Allowed functions - ‘percentage’ - for error metric , ‘avg’, percentiles like ‘p50’, ‘p90’, & so on, ‘min’, ‘max’ - for response\\_time\\_ms and latency metric, ‘avg’ - for requests\\_per\\_sec, ‘count’ - for requests."
+  desc: "Get the aggregate property: The aggregation function to be applied on the client metric. Allowed functions - \\\\u2018percentage\\\\u2019 - for error metric , \\\\u2018avg\\\\u2019, percentiles like \\\\u2018p50\\\\u2019, \\\\u2018p90\\\\u2019, & so on, \\\\u2018min\\\\u2019, \\\\u2018max\\\\u2019 - for response\\_time\\_ms and latency metric, \\\\u2018avg\\\\u2019 - for requests\\_per\\_sec, \\\\u2018count\\\\u2019 - for requests."
   returns:
     description: "the aggregate value."
     type: "<xref href=\"com.azure.developer.loadtesting.models.PassFailAggregationFunction?alt=com.azure.developer.loadtesting.models.PassFailAggregationFunction&text=PassFailAggregationFunction\" data-throw-if-not-resolved=\"False\" />"
@@ -95,7 +95,7 @@ methods:
   nameWithType: "PassFailMetric.getCondition()"
   summary: "Get the condition property: The comparison operator."
   syntax: "public String getCondition()"
-  desc: "Get the condition property: The comparison operator. Supported types ‘>’, ‘<’."
+  desc: "Get the condition property: The comparison operator. Supported types \\\\u2018>\\\\u2019, \\\\u2018<\\\\u2019."
   returns:
     description: "the condition value."
     type: "<a href=\"https://docs.oracle.com/javase/8/docs/api/java/lang/String.html\">String</a>"
@@ -125,7 +125,7 @@ methods:
   nameWithType: "PassFailMetric.getValue()"
   summary: "Get the value property: The value to compare with the client metric."
   syntax: "public Double getValue()"
-  desc: "Get the value property: The value to compare with the client metric. Allowed values - ‘error : \\[0.0 , 100.0\\] unit- % ’, response\\_time\\_ms and latency : any integer value unit- ms."
+  desc: "Get the value property: The value to compare with the client metric. Allowed values - \\\\u2018error : \\[0.0 , 100.0\\] unit- % \\\\u2019, response\\_time\\_ms and latency : any integer value unit- ms."
   returns:
     description: "the value value."
     type: "<a href=\"https://docs.oracle.com/javase/8/docs/api/java/lang/Double.html\">Double</a>"
@@ -139,7 +139,7 @@ methods:
     name: "action"
     type: "<xref href=\"com.azure.developer.loadtesting.models.PassFailAction?alt=com.azure.developer.loadtesting.models.PassFailAction&text=PassFailAction\" data-throw-if-not-resolved=\"False\" />"
   syntax: "public PassFailMetric setAction(PassFailAction action)"
-  desc: "Set the action property: Action taken after the threshold is met. Default is ‘continue’."
+  desc: "Set the action property: Action taken after the threshold is met. Default is \\\\u2018continue\\\\u2019."
   returns:
     description: "the PassFailMetric object itself."
     type: "<xref href=\"com.azure.developer.loadtesting.models.PassFailMetric?alt=com.azure.developer.loadtesting.models.PassFailMetric&text=PassFailMetric\" data-throw-if-not-resolved=\"False\" />"
@@ -153,7 +153,7 @@ methods:
     name: "aggregate"
     type: "<xref href=\"com.azure.developer.loadtesting.models.PassFailAggregationFunction?alt=com.azure.developer.loadtesting.models.PassFailAggregationFunction&text=PassFailAggregationFunction\" data-throw-if-not-resolved=\"False\" />"
   syntax: "public PassFailMetric setAggregate(PassFailAggregationFunction aggregate)"
-  desc: "Set the aggregate property: The aggregation function to be applied on the client metric. Allowed functions - ‘percentage’ - for error metric , ‘avg’, percentiles like ‘p50’, ‘p90’, & so on, ‘min’, ‘max’ - for response\\_time\\_ms and latency metric, ‘avg’ - for requests\\_per\\_sec, ‘count’ - for requests."
+  desc: "Set the aggregate property: The aggregation function to be applied on the client metric. Allowed functions - \\\\u2018percentage\\\\u2019 - for error metric , \\\\u2018avg\\\\u2019, percentiles like \\\\u2018p50\\\\u2019, \\\\u2018p90\\\\u2019, & so on, \\\\u2018min\\\\u2019, \\\\u2018max\\\\u2019 - for response\\_time\\_ms and latency metric, \\\\u2018avg\\\\u2019 - for requests\\_per\\_sec, \\\\u2018count\\\\u2019 - for requests."
   returns:
     description: "the PassFailMetric object itself."
     type: "<xref href=\"com.azure.developer.loadtesting.models.PassFailMetric?alt=com.azure.developer.loadtesting.models.PassFailMetric&text=PassFailMetric\" data-throw-if-not-resolved=\"False\" />"
@@ -181,7 +181,7 @@ methods:
     name: "condition"
     type: "<a href=\"https://docs.oracle.com/javase/8/docs/api/java/lang/String.html\">String</a>"
   syntax: "public PassFailMetric setCondition(String condition)"
-  desc: "Set the condition property: The comparison operator. Supported types ‘>’, ‘<’."
+  desc: "Set the condition property: The comparison operator. Supported types \\\\u2018>\\\\u2019, \\\\u2018<\\\\u2019."
   returns:
     description: "the PassFailMetric object itself."
     type: "<xref href=\"com.azure.developer.loadtesting.models.PassFailMetric?alt=com.azure.developer.loadtesting.models.PassFailMetric&text=PassFailMetric\" data-throw-if-not-resolved=\"False\" />"
@@ -209,7 +209,7 @@ methods:
     name: "value"
     type: "<a href=\"https://docs.oracle.com/javase/8/docs/api/java/lang/Double.html\">Double</a>"
   syntax: "public PassFailMetric setValue(Double value)"
-  desc: "Set the value property: The value to compare with the client metric. Allowed values - ‘error : \\[0.0 , 100.0\\] unit- % ’, response\\_time\\_ms and latency : any integer value unit- ms."
+  desc: "Set the value property: The value to compare with the client metric. Allowed values - \\\\u2018error : \\[0.0 , 100.0\\] unit- % \\\\u2019, response\\_time\\_ms and latency : any integer value unit- ms."
   returns:
     description: "the PassFailMetric object itself."
     type: "<xref href=\"com.azure.developer.loadtesting.models.PassFailMetric?alt=com.azure.developer.loadtesting.models.PassFailMetric&text=PassFailMetric\" data-throw-if-not-resolved=\"False\" />"
