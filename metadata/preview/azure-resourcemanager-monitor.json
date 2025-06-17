@@ -1,15 +1,15 @@
 {
-  "Name": "azure-resourcemanager-dns",
+  "Name": "azure-resourcemanager-monitor",
   "Version": "2.52.0-alpha.20250616.1",
   "DevVersion": "2.52.0-alpha.20250616.1",
-  "DirectoryPath": "sdk/resourcemanager/azure-resourcemanager-dns",
+  "DirectoryPath": "sdk/resourcemanager/azure-resourcemanager-monitor",
   "ServiceDirectory": "resourcemanager",
-  "ReadMePath": "sdk/resourcemanager/azure-resourcemanager-dns/README.md",
-  "ChangeLogPath": "sdk/resourcemanager/azure-resourcemanager-dns/CHANGELOG.md",
+  "ReadMePath": "sdk/resourcemanager/azure-resourcemanager-monitor/README.md",
+  "ChangeLogPath": "sdk/resourcemanager/azure-resourcemanager-monitor/CHANGELOG.md",
   "Group": "com.azure.resourcemanager",
   "SdkType": "mgmt",
   "IsNewSdk": true,
-  "ArtifactName": "azure-resourcemanager-dns",
+  "ArtifactName": "azure-resourcemanager-monitor",
   "ReleaseStatus": "Unreleased",
   "IncludedForValidation": false,
   "AdditionalValidationPackages": [
@@ -19,21 +19,21 @@
     "com.azure:perf-test-core"
   ],
   "ArtifactDetails": {
-    "safeName": "azureresourcemanagerdns",
-    "name": "azure-resourcemanager-dns",
+    "safeName": "azureresourcemanagermonitor",
+    "name": "azure-resourcemanager-monitor",
     "triggeringPaths": [
       "/sdk/resourcemanager/ci.yml"
     ],
-    "releaseInBatch": "${{ parameters.release_azureresourcemanagerdns }}",
+    "releaseInBatch": "${{ parameters.release_azureresourcemanagermonitor }}",
     "groupId": "com.azure.resourcemanager"
   },
   "CIParameters": {
     "CIMatrixConfigs": []
   },
   "Namespaces": [
-    "com.azure.resourcemanager.dns",
-    "com.azure.resourcemanager.dns.fluent",
-    "com.azure.resourcemanager.dns.fluent.models",
-    "com.azure.resourcemanager.dns.models"
+    "com.azure.resourcemanager.monitor",
+    "com.azure.resourcemanager.monitor.fluent",
+    "com.azure.resourcemanager.monitor.fluent.models",
+    "com.azure.resourcemanager.monitor.models"
   ]
 }
