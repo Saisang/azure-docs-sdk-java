@@ -1,15 +1,15 @@
 ---
-title: Azure Resource Manager Containerregistry client library for Java
-keywords: Azure, java, SDK, API, azure-resourcemanager-containerregistry, container-registry
+title: Azure Resource Manager Containerservice client library for Java
+keywords: Azure, java, SDK, API, azure-resourcemanager-containerservice, container-service
 ms.date: 06/21/2025
 ms.topic: reference
 ms.devlang: java
-ms.service: container-registry
+ms.service: container-service
 ---
-# Azure Resource Manager Containerregistry client library for Java - version 2.52.0-alpha.20250620.1 
+# Azure Resource Manager Containerservice client library for Java - version 2.52.0-alpha.20250620.1 
 
 
-Azure Resource Manager Containerregistry client library for Java
+Azure Resource Manager Containerservice client library for Java
 
 For documentation on how to use this package, please see [Azure Management Libraries for Java](https://aka.ms/azsdk/java/mgmt).
 
@@ -22,11 +22,11 @@ For documentation on how to use this package, please see [Azure Management Libra
 
 ### Adding the package to your product
 
-[//]: # ({x-version-update-start;com.azure.resourcemanager:azure-resourcemanager-containerregistry;current})
+[//]: # ({x-version-update-start;com.azure.resourcemanager:azure-resourcemanager-containerservice;current})
 ```xml
 <dependency>
     <groupId>com.azure.resourcemanager</groupId>
-    <artifactId>azure-resourcemanager-containerregistry</artifactId>
+    <artifactId>azure-resourcemanager-containerservice</artifactId>
     <version>2.51.0</version>
 </dependency>
 ```
@@ -52,7 +52,7 @@ AzureProfile profile = new AzureProfile(AzureCloud.AZURE_PUBLIC_CLOUD);
 TokenCredential credential = new DefaultAzureCredentialBuilder()
     .authorityHost(profile.getEnvironment().getActiveDirectoryEndpoint())
     .build();
-ContainerRegistryManager manager = ContainerRegistryManager
+ContainerServiceManager manager = ContainerServiceManager
     .authenticate(credential, profile);
 ```
 

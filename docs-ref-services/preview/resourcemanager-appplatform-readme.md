@@ -1,15 +1,20 @@
 ---
-title: Azure Resource Manager Containerregistry client library for Java
-keywords: Azure, java, SDK, API, azure-resourcemanager-containerregistry, container-registry
+title: Azure Resource Manager App Platform client library for Java
+keywords: Azure, java, SDK, API, azure-resourcemanager-appplatform, spring-cloud
 ms.date: 06/21/2025
 ms.topic: reference
 ms.devlang: java
-ms.service: container-registry
+ms.service: spring-cloud
 ---
-# Azure Resource Manager Containerregistry client library for Java - version 2.52.0-alpha.20250620.1 
+# Azure Resource Manager App Platform client library for Java - version 2.51.0-alpha.20250620.1 
 
 
-Azure Resource Manager Containerregistry client library for Java
+Please note, this package has been deprecated and will no longer be maintained after 03/31/2025. 
+We recommend [azure-resourcemanager-appcontainers](https://learn.microsoft.com/java/api/overview/azure/resourcemanager-appcontainers-readme) and [azure-resourcemanager-containerservice](https://learn.microsoft.com/java/api/overview/azure/resourcemanager-containerservice-readme) as the replacement libraries. 
+Refer to [Azure Spring Apps retirement announcement](https://aka.ms/asaretirement) for more retirement details and how to migrate to the new services.
+Refer to our deprecation policy (https://aka.ms/azsdk/support-policies) for more details.
+
+Azure Resource Manager App Platform client library for Java
 
 For documentation on how to use this package, please see [Azure Management Libraries for Java](https://aka.ms/azsdk/java/mgmt).
 
@@ -22,12 +27,12 @@ For documentation on how to use this package, please see [Azure Management Libra
 
 ### Adding the package to your product
 
-[//]: # ({x-version-update-start;com.azure.resourcemanager:azure-resourcemanager-containerregistry;current})
+[//]: # ({x-version-update-start;com.azure.resourcemanager:azure-resourcemanager-appplatform;current})
 ```xml
 <dependency>
     <groupId>com.azure.resourcemanager</groupId>
-    <artifactId>azure-resourcemanager-containerregistry</artifactId>
-    <version>2.51.0</version>
+    <artifactId>azure-resourcemanager-appplatform</artifactId>
+    <version>2.51.0-beta.1</version>
 </dependency>
 ```
 [//]: # ({x-version-update-end})
@@ -52,7 +57,7 @@ AzureProfile profile = new AzureProfile(AzureCloud.AZURE_PUBLIC_CLOUD);
 TokenCredential credential = new DefaultAzureCredentialBuilder()
     .authorityHost(profile.getEnvironment().getActiveDirectoryEndpoint())
     .build();
-ContainerRegistryManager manager = ContainerRegistryManager
+AppPlatformManager manager = AppPlatformManager
     .authenticate(credential, profile);
 ```
 
