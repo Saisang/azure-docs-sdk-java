@@ -1,7 +1,7 @@
 {
   "Name": "spring-cloud-azure-appconfiguration-config",
-  "Version": "6.0.0-beta.1",
-  "DevVersion": null,
+  "Version": "5.23.0-alpha.20250623.1",
+  "DevVersion": "5.23.0-alpha.20250623.1",
   "DirectoryPath": "sdk/spring/spring-cloud-azure-appconfiguration-config",
   "ServiceDirectory": "spring",
   "ReadMePath": "sdk/spring/spring-cloud-azure-appconfiguration-config/README.md",
@@ -10,19 +10,19 @@
   "SdkType": "spring",
   "IsNewSdk": true,
   "ArtifactName": "spring-cloud-azure-appconfiguration-config",
-  "ReleaseStatus": null,
+  "ReleaseStatus": "Unreleased",
   "IncludedForValidation": false,
   "AdditionalValidationPackages": null,
   "ArtifactDetails": {
+    "skipPublishDocGithubIo": false,
     "triggeringPaths": [
       "/sdk/spring/ci.yml"
     ],
-    "skipPublishDocMs": false,
     "safeName": "springcloudazureappconfigurationconfig",
-    "name": "spring-cloud-azure-appconfiguration-config",
-    "skipPublishDocGithubIo": false,
-    "skipVerifyChangelog": true,
+    "skipPublishDocMs": false,
     "groupId": "com.azure.spring",
+    "name": "spring-cloud-azure-appconfiguration-config",
+    "skipVerifyChangelog": true,
     "releaseInBatch": "${{ parameters.release_springcloudazureappconfigurationconfig }}"
   },
   "CIParameters": {
