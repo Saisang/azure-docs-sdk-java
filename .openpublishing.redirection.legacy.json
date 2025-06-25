@@ -1,6 +1,576 @@
 {
   "redirections": [
     {
+      "source_path": "docs-ref-services/legacy-redirects-temp/ai-anomalydetector-readme.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/ai-anomalydetector-readme?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/ai-documenttranslator-readme.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/ai-documenttranslator-readme?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/analytics-purview-catalog-readme.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/analytics-purview-catalog-readme?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/auto-suggest.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/auto-suggest?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/auto-suggest-index.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/auto-suggest-index?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/azure-stack-hci.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/azure-stack-hci?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/azure-stack-hci-index.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/azure-stack-hci-index?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/batch.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/batch?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/batch-ai.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/batch-ai?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/batch-ai-index.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/batch-ai-index?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/batch-index.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/batch-index?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/cognitive-services.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/cognitive-services?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/cognitive-services-index.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/cognitive-services-index?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/communication.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/communication?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/communication-index.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/communication-index?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/container-instances.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/container-instances?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/container-instances-index.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/container-instances-index?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/container-registry.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/container-registry?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/container-registry-index.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/container-registry-index?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/container-service.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/container-service?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/container-service-index.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/container-service-index?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/content-delivery-network.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/content-delivery-network?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/content-delivery-network-index.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/content-delivery-network-index?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/core-serializer-avro-jackson-readme.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/core-serializer-avro-jackson-readme?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/cosmos-db.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/cosmos-db?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/cosmos-db-index.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/cosmos-db-index?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/custom-image-search.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/custom-image-search?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/custom-image-search-index.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/custom-image-search-index?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/custom-search.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/custom-search?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/custom-search-index.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/custom-search-index?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/digital-twins.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/digital-twins?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/digital-twins-index.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/digital-twins-index?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/dns.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/dns?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/dns-index.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/dns-index?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/entity-search.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/entity-search?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/entity-search-index.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/entity-search-index?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/event-grid.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/event-grid?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/event-grid-index.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/event-grid-index?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/graph-rbac.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/graph-rbac?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/graph-rbac-index.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/graph-rbac-index?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/hybrid-compute.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/hybrid-compute?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/hybrid-compute-index.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/hybrid-compute-index?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/image-search.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/image-search?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/image-search-index.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/image-search-index?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/key-vault.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/key-vault?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/key-vault-index.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/key-vault-index?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/load-testing.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/load-testing?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/load-testing-index.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/load-testing-index?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/locks.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/locks?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/locks-index.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/locks-index?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/logz.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/logz?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/logz-index.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/logz-index?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/machine-learning.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/machine-learning?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/machine-learning-index.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/machine-learning-index?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/managed-service-identity.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/managed-service-identity?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/managed-service-identity-index.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/managed-service-identity-index?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/maps.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/maps?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/maps-elevation-readme.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/maps-elevation-readme?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/maps-index.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/maps-index?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/media-services.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/media-services?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/media-services-index.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/media-services-index?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/media-videoanalyzer-edge-readme.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/media-videoanalyzer-edge-readme?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/messaging-eventgrid-cloudnative-cloudevents-readme.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/messaging-eventgrid-cloudnative-cloudevents-readme?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/mixed-reality.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/mixed-reality?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/mixed-reality-index.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/mixed-reality-index?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/monitor.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/monitor?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/monitor-index.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/monitor-index?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/network.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/network?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/network-analytics.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/network-analytics?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/network-analytics-index.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/network-analytics-index?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/network-index.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/network-index?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/news-search.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/news-search?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/news-search-index.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/news-search-index?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/opentelemetry-exporter-azuremonitor-readme.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/opentelemetry-exporter-azuremonitor-readme?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/operations-management.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/operations-management?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/operations-management-index.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/operations-management-index?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/purview.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/purview?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/purview-index.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/purview-index?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/redis.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/redis?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/redis-index.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/redis-index?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/resourcemanager-batchai-readme.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/resourcemanager-batchai-readme?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/resourcemanager-loadtestservice-readme.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/resourcemanager-loadtestservice-readme?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/resourcemanager-logz-readme.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/resourcemanager-logz-readme?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/resourcemanager-machinelearningservices-readme.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/resourcemanager-machinelearningservices-readme?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/resourcemanager-mediaservices-readme.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/resourcemanager-mediaservices-readme?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/resourcemanager-networkanalytics-readme.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/resourcemanager-networkanalytics-readme?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/resourcemanager-storageimportexport-readme.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/resourcemanager-storageimportexport-readme?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/resourcemanager-videoanalyzer-readme.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/resourcemanager-videoanalyzer-readme?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/resource-mover.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/resource-mover?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/resource-mover-index.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/resource-mover-index?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/resources.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/resources?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/resources-index.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/resources-index?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/search.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/search?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/search-index.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/search-index?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/service-bus.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/service-bus?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/service-bus-index.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/service-bus-index?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/spring-cloud.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/spring-cloud?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/spring-cloud-index.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/spring-cloud-index?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/sql.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/sql?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/sql-index.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/sql-index?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/storage.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/storage?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/storage-index.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/storage-index?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/support.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/support?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/support-index.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/support-index?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/traffic-manager.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/traffic-manager?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/traffic-manager-index.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/traffic-manager-index?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/video-analyzer.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/video-analyzer?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/video-analyzer-index.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/video-analyzer-index?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/video-search.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/video-search?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/video-search-index.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/video-search-index?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/visual-search.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/visual-search?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/visual-search-index.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/visual-search-index?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/web-search.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/web-search?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs-ref-services/legacy-redirects-temp/web-search-index.md",
+      "redirect_url": "/previous-versions/java/api/overview/azure/web-search-index?view=azure-java-archive-legacy",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "legacy/docs-ref-autogen/com.azure.ai.anomalydetector.AnomalyDetectorAsyncClient.yml",
       "redirect_url": "/previous-versions/java/api/overview/azure",
       "redirect_document_id": false

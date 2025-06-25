@@ -120,9 +120,7 @@
   ],
   "SplitTOC": [
     "docs-ref-autogen/toc.yml",
-    "preview/docs-ref-autogen/toc.yml",
-    "legacy/docs-ref-autogen/toc.yml",
-    "archive/docs-ref-autogen/toc.yml"
+    "preview/docs-ref-autogen/toc.yml"
   ],
   "JoinTOCPlugin": [
     {
@@ -145,20 +143,6 @@
       "ReferenceTOCUrl": "/java/api/azure/toc.json",
       "ConceptualTOCUrl": "/azure/developer/java/sdk/toc.json",
       "OutputFolder": "preview/docs-ref-autogen/overview/azure",
-      "HideEmptyNode": false,
-      "ContainerPageMetadata": {
-        "langs": [
-          "java"
-        ],
-        "open_to_public_contributors": false
-      }
-    },
-    {
-      "TopLevelTOC": "legacy/docs-ref-mapping/reference-legacy.yml",
-      "ReferenceTOC": "legacy/docs-ref-autogen/toc.yml",
-      "ReferenceTOCUrl": "/java/api/azure-java-sdk/toc.json?view=azure-java-legacy",
-      "ConceptualTOCUrl": "/azure/developer/java/sdk/toc.json",
-      "OutputFolder": "legacy/docs-ref-autogen/overview/azure",
       "HideEmptyNode": false,
       "ContainerPageMetadata": {
         "langs": [
