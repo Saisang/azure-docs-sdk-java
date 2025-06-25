@@ -43769,6 +43769,216 @@
       "source_path": "legacy/docs-ref-autogen/com.microsoft.azure.servicebus.yml",
       "redirect_url": "/previous-versions/java/api/overview/azure",
       "redirect_document_id": false
+    },
+    {
+      "source_path": "legacy/docs-ref-autogen/overview/azure/AzureStackHCI/Management/Management-AzureStackHCI(deprecated).yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "legacy/docs-ref-autogen/overview/azure/Batch/Management/Management-Batch(deprecated).yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "legacy/docs-ref-autogen/overview/azure/CognitiveServices.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "legacy/docs-ref-autogen/overview/azure/CognitiveServices/ComputerVision(deprecated).yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "legacy/docs-ref-autogen/overview/azure/CognitiveServices/QuestionAnswering(deprecated).yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "legacy/docs-ref-autogen/overview/azure/CognitiveServices/SpellCheck(deprecated).yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "legacy/docs-ref-autogen/overview/azure/Communication/CommunicationNetworkTraversal(deprecated).yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "legacy/docs-ref-autogen/overview/azure/ContainerInstances/Management/Management-ContainerInstances(deprecated).yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "legacy/docs-ref-autogen/overview/azure/ContainerRegistry/Management/Management-ContainerRegistry(deprecated).yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "legacy/docs-ref-autogen/overview/azure/ContainerService/Management/Management-ContainerService(deprecated).yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "legacy/docs-ref-autogen/overview/azure/ContentDeliveryNetwork/Management/Management-ContentDeliveryNetwork(deprecated).yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "legacy/docs-ref-autogen/overview/azure/CosmosDB/Management/Management-CosmosDB(deprecated).yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "legacy/docs-ref-autogen/overview/azure/CustomSearch/CustomSearch(deprecated).yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "legacy/docs-ref-autogen/overview/azure/DigitalTwins/Management/Management-DigitalTwins(deprecated).yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "legacy/docs-ref-autogen/overview/azure/DNS/Management/Management-DNS(deprecated).yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "legacy/docs-ref-autogen/overview/azure/EntitySearch/EntitySearch(deprecated).yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "legacy/docs-ref-autogen/overview/azure/GraphRBAC/Management/Management-GraphRBAC(deprecated).yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "legacy/docs-ref-autogen/overview/azure/HybridCompute/Management/Management-HybridCompute(deprecated).yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "legacy/docs-ref-autogen/overview/azure/ImageSearch/ImageSearch(deprecated).yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "legacy/docs-ref-autogen/overview/azure/KeyVault/Management/Management-KeyVault(deprecated).yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "legacy/docs-ref-autogen/overview/azure/Locks/Management/Management-Locks(deprecated).yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "legacy/docs-ref-autogen/overview/azure/ManagedServiceIdentity/Management/Management-ManagedServiceIdentity(deprecated).yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "legacy/docs-ref-autogen/overview/azure/MixedReality/Management/Management-MixedReality(deprecated).yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "legacy/docs-ref-autogen/overview/azure/Monitor/Management/Management-Monitor(deprecated).yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "legacy/docs-ref-autogen/overview/azure/Network/Management/Management-Network(deprecated).yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "legacy/docs-ref-autogen/overview/azure/NewsSearch/NewsSearch(deprecated).yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "legacy/docs-ref-autogen/overview/azure/OperationsManagement/Management/ResourceManagement-OperationsManagement(deprecated).yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "legacy/docs-ref-autogen/overview/azure/Redis/Management/Management-Redis(deprecated).yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "legacy/docs-ref-autogen/overview/azure/ResourceMover.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "legacy/docs-ref-autogen/overview/azure/ResourceMover/Management/ResourceManagement-ResourceMover(deprecated).yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "legacy/docs-ref-autogen/overview/azure/Resources/Management/Management-Resources(deprecated).yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "legacy/docs-ref-autogen/overview/azure/Search/Management/Management-CognitiveSearch(deprecated).yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "legacy/docs-ref-autogen/overview/azure/Search/Search(deprecated).yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "legacy/docs-ref-autogen/overview/azure/ServiceBus/Management/Management-ServiceBus(deprecated).yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "legacy/docs-ref-autogen/overview/azure/ServiceBus/ServiceBus(deprecated).yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "legacy/docs-ref-autogen/overview/azure/SpringCloud/Management/Management-AppPlatform(deprecated).yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "legacy/docs-ref-autogen/overview/azure/SQL/Management/Management-SQL(deprecated).yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "legacy/docs-ref-autogen/overview/azure/Storage/Management/Management-Storage(deprecated).yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "legacy/docs-ref-autogen/overview/azure/Support/Management/Management-Support(deprecated).yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "legacy/docs-ref-autogen/overview/azure/TrafficManager/Management/Management-TrafficManager(deprecated).yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "legacy/docs-ref-autogen/overview/azure/VideoSearch/VideoSearch(deprecated).yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "legacy/docs-ref-autogen/overview/azure/WebSearch/WebSearch(deprecated).yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
     }
   ]
 }

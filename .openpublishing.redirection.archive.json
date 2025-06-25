@@ -27564,6 +27564,451 @@
       "source_path": "archive/docs-ref-autogen/com.microsoft.azure.storage.yml",
       "redirect_url": "/previous-versions/java/api/overview/azure",
       "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/ActiveDirectory/Client.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/ActiveDirectory/Management.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/ApplicationInsights/Client.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/ApplicationInsights/Management.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/AppService/Management.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/Batch/Client.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/Batch/Management.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/BatchAI/Management.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/CDN/Management.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/CognitiveServices.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/CognitiveServices/Client.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/CognitiveServices/Client/BingAutoSuggest.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/CognitiveServices/Client/BingCustomImageSearch.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/CognitiveServices/Client/BingCustomSearch.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/CognitiveServices/Client/BingEntitySearchAPI.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/CognitiveServices/Client/BingImageSearch.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/CognitiveServices/Client/BingNewsSearch.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/CognitiveServices/Client/BingSpellCheck.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/CognitiveServices/Client/BingVideoSearch.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/CognitiveServices/Client/BingVisualSearch.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/CognitiveServices/Client/BingWebSearchAPI.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/CognitiveServices/Client/ComputerVision.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/CognitiveServices/Client/ContentModerator.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/CognitiveServices/Client/CustomVision.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/CognitiveServices/Client/FaceAPI.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/CognitiveServices/Client/LanguageUnderstanding.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/CognitiveServices/Client/SpeechService.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/CognitiveServices/Client/TextAnalytics.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/CognitiveServices/Management.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/ContainerInstance.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/ContainerInstance/Management.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/ContainerRegistry.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/ContainerRegistry/Management.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/ContainerService.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/ContainerService/Management.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/CosmosDB/Client.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/CosmosDB/Client/Async.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/CosmosDB/Client/BulkExecutor.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/CosmosDB/Client/Sync.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/CosmosDB/Management.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/DataExplorer.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/DataExplorer/Management.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/DataLakeAnalytics/Management.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/DataLakeStore/Client.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/DataLakeStore/Management.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/DNS/Management.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/EdgeGateway.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/EdgeGateway/Management.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/EventGrid/Client.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/EventGrid/Management.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/EventHubs/Client.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/EventHubs/Management.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/Functions/Runtime.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/HDInsight/Management.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/IoT/Client.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/KeyVault/Client.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/KeyVault/Management.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/LabServices.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/LabServices/Management.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/LogAnalytics.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/LogAnalytics/Management.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/Management.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/Management/Management.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/MediaServices.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/MediaServices/Management.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/MixedReality.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/MixedReality/Management.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/Monitor/Management.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/Networking/Management.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/PrivateDNS.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/PrivateDNS/Management.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/RedisCache/Management.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/ResourceGraph.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/ResourceGraph/Management.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/Resources/Management.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/Search/Management.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/ServiceBus/Client.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/ServiceBus/Management.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/ServiceFabric.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/ServiceFabric/Client.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/ServiceFabric/Common.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/ServiceFabric/Runtime.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/SQL/Management.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/Storage/Client.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/Storage/Management.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/StreamAnalytics.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/StreamAnalytics/Management.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/TrafficManager/Management.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "archive/docs-ref-autogen/overview/azure/VirtualMachines/Management.yml",
+      "redirect_url": "/previous-versions/java/api/overview/azure",
+      "redirect_document_id": false
     }
   ]
 }
