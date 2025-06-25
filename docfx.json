@@ -162,7 +162,7 @@
         "files": [
           "**/toc.yml"
         ],
-        "src": "legacy/docs-ref-autogen",
+        "src": "legacy/docs-ref-mapping",
         "dest": "api/azure-java-sdk",
         "group": "legacy",
         "exclude": [
